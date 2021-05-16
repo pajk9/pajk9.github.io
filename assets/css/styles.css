@@ -388,7 +388,7 @@ button.bg-primary:focus {
   background-color: #f2ede0 !important;
 }
 .bg-secondary {
-  background-color: #1e4151 !important;
+  background-color: #282a36 !important;
 }
 .border-primary {
   border-color: #f2ede0 !important;
@@ -441,7 +441,7 @@ button.bg-primary:focus {
   color: #f2ede0;
 }
 .footer {
-  background-color: #1e4151;
+  background-color: #44475a;
 }
 .video-container {
     position: relative;
